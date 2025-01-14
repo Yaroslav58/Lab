@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Расчет Периметра Треугольника Русяев Я.С.</title>
+  <title>Расчет Периметра Треугольника</title>
     <style>
         body {
             font-family: sans-serif;
